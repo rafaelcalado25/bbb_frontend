@@ -7,7 +7,7 @@
 -- Versão do servidor: 10.1.34-MariaDB
 -- PHP Version: 7.2.7
 
---DROP TABLE `paredao`, `paredaoxparticipantes`, `participante`, `perfil`, `usuario`, `votacao`;
+DROP TABLE `paredao`, `paredaoxparticipantes`, `participante`, `perfil`, `usuario`, `votacao`;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
